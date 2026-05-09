@@ -44,7 +44,7 @@ function Hero() {
           </a>
 
         <a
-  href="online-cv/cv.pdf"
+  href="./cv.pdf"
   download
   className="
     border border-slate-600
